@@ -11,3 +11,7 @@ Pro: Git clone to your Xcode projects folder.
 
 
 Copyright © The App Brewery
+
+
+#Fixed auth methods to latest Firebase.
+#Added phone, email, and google auth.
